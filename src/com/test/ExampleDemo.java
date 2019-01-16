@@ -17,5 +17,9 @@ public class ExampleDemo {
 		method1();
 		
 		method2();
+		
+		System.out.Println("main method completes execution here");
+		
+		Sysout.out.Println("this file has been updated from git ");
 	}
 }
