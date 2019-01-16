@@ -11,4 +11,11 @@ public class ExampleDemo {
 		
 		System.out.println("this is method2 in calss example");
 	}
+	
+	public static void main(String[] args) {
+		
+		method1();
+		
+		method2();
+	}
 }
